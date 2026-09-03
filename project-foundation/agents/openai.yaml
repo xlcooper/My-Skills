@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Foundation"
+  short_description: "Bootstrap or retrofit a durable project foundation."
+  default_prompt: "Use $project-foundation to prepare this draft or existing project for durable, well-documented development."

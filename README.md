@@ -6,7 +6,7 @@
 
 | Skill | 简介 |
 | --- | --- |
-| [`project-continuity-manager`](./project-continuity-manager/SKILL.md) | 根据用户的项目设计建立可持续的项目治理体系。适用于为新项目或现有开发、研究项目检查运行环境、生成可见的 `PROJECT_ENVIRONMENT.md`、初始化管理文档，并将长期协作规则写入项目级 `AGENTS.md`。当项目规则已经稳定后，不用于普通的日常开发任务，除非需要重新初始化或重组治理体系。 |
+| [`project-foundation`](./project-foundation/SKILL.md) | 为项目草案、新项目或已有项目建立可持续的个性化开发基础：检查设备与项目环境、配置本地 Git、创建或优化公共 `README.md`、建立根目录 `AGENTS.md`，并留下可动态维护的中文环境摘要、变更摘要和执行报告。基础建立后，日常开发无需再次依赖该 Skill。 |
 
 ## 使用方式
 

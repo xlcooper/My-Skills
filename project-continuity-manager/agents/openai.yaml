@@ -1,4 +1,0 @@
-interface:
-  display_name: "Project Bootstrap & Continuity"
-  short_description: "Bootstrap durable project rules and visible baselines."
-  default_prompt: "Use $project-continuity-manager to bootstrap this project from my design and persist its working rules."
